@@ -1,0 +1,12 @@
+{
+  "name": "cenfotec-chatbot-ia",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Asistente de orientación académica de Cenfotec con Gemini y despliegue en EC2.",
+  "type": "module",
+  "engines": { "node": ">=22" },
+  "scripts": {
+    "start": "node --env-file=.env Index/server.mjs",
+    "check": "node --check Index/server.mjs && node --check Index/script.js"
+  }
+}

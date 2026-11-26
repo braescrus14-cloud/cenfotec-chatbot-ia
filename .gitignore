@@ -1,0 +1,14 @@
+.env
+.env.*
+!.env.example
+node_modules/
+*.log
+*.pem
+*.ppk
+*.key
+*key-transfer*
+.DS_Store
+Thumbs.db
+**/*RUT*.pdf
+**/*CAMARA*.pdf
+**/*CERTIFICADO*.pdf

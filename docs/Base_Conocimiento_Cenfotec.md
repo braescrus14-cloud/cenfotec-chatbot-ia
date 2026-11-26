@@ -1,0 +1,285 @@
+# BASE DE CONOCIMIENTO – CENFOTEC SAS
+**Centro de Formación Técnica de la Orinoquia**
+Documento para alimentar el chatbot de atención al cliente y orientación vocacional.
+Fuentes: Portafolio de Servicios Cenfotec 2025, imagen de requisitos de inscripción y documentos del proyecto (Modelo IG y FIS).
+Versión: 19 de noviembre de 2026.
+
+---
+
+## 1. DATOS GENERALES DE LA INSTITUCIÓN
+
+- **Nombre:** CENFOTEC – Centro de Formación Técnica de la Orinoquia (Cenfotec SAS).
+- **Lema:** "Muchos enseñan… Nosotros formamos".
+- **Tipo de oferta:** programas técnicos laborales por competencias (3 semestres) y cursos/seminarios de educación informal.
+- **Reconocimiento legal:** Licencias de Funcionamiento No. 0391 de 2014, No. 3908 de 2016 y No. 3181 de 2021, emitidas por la Secretaría de Educación Departamental de Arauca.
+- **Fundador:** licenciado Jonathan Darío Ávila Cuellar.
+- **Cobertura:** Arauca (Tame, Saravena y Puerto Jordán); también reciben estudiantes de otros municipios de Arauca, de Casanare, Boyacá y Santander.
+- **Sitio web:** https://www.cenfotec.com.co/
+- **Correo institucional:** cenfotec@hotmail.es
+
+### Misión
+Promover educación técnica y formación integral mediante procesos de construcción de conocimiento, investigación y producción social, para un desempeño competente, pertinente y ético, con capacidad de actualizarse y de responder de forma crítica y creativa a las exigencias del mercado.
+
+### Visión
+Para 2030, seguir siendo líderes en formación técnica en el departamento de Arauca, manteniendo la calidad de los programas, la eficacia de los procesos, el reconocimiento de los egresados y la calidad del talento humano.
+
+### Reseña histórica (resumen)
+- **2013:** nace en Tame, por iniciativa del licenciado Jonathan Darío Ávila Cuellar y tres mujeres tameñas. El primer grupo fue de Maquinaria Pesada y Seguridad Ocupacional (prueba piloto).
+- **2014:** se abren nuevos programas y se proyecta una sede en el corregimiento de Pueblo Nuevo.
+- **2017:** se abre la sede de Saravena con programas como Operación de Maquinaria Pesada, Electricidad, Seguridad Ocupacional, Obras Civiles, Manejo Ambiental y Belleza Integral.
+- **2018:** se entrega la letra del himno, se renueva la identidad corporativa y el escudo.
+- **Hoy:** más de 1.500 técnicos graduados desde 2014; pasó de 1 a 5 plantas físicas; genera más de 40 empleos profesionales por semestre.
+- **Inclusión:** atiende población indígena, afro, LGBTI y vulnerable, en ocasiones con becas del 100 %.
+- **Proyección social:** los estudiantes hacen actividades en comunidades urbanas y rurales (recreación infantil, entrega de mercados, arreglo de vías, cortes de cabello, manicure y pedicure), incluso en resguardos indígenas.
+
+### Por qué estudiar en Cenfotec (ventajas para el aspirante)
+- Horarios flexibles (fines de semana).
+- Pago por cuotas.
+- Programas prácticos, más enfocados en la práctica que en la teoría.
+- Precios accesibles y becas para población vulnerable.
+
+---
+
+## 2. SEDES Y CONTACTO
+
+### Sede Tame (Arauca)
+- **Dirección:** Cra 15 No. 17 Esq., Tame, Arauca.
+- **Teléfono / WhatsApp:** 312 487 8581.
+- **Correo:** cenfotec@hotmail.es
+
+### Sede Saravena (Arauca)
+- **Dirección:** Cll 27 No. 16A - 31, Saravena, Arauca.
+- **Teléfono:** 300 722 7622.
+
+### Sede Puerto Jordán (Arauca)
+- **Dirección:** Detrás de la Casa Comunal, Puerto Jordán, Arauca.
+- **Teléfono:** 312 383 3602.
+
+---
+
+## 3. REQUISITOS DE INSCRIPCIÓN (programas técnicos)
+
+El aspirante debe presentar:
+1. Carpeta 4 alas.
+2. Carpeta colgante azul.
+3. Acta de bachiller **o** certificado de grado noveno.
+4. Documento de identidad.
+5. 2 fotos 3x4 fondo blanco.
+6. Certificado ADRES.
+7. Correo electrónico actualizado.
+8. Certificado SISBEN.
+
+---
+
+## 4. BIENESTAR ESTUDIANTIL
+
+- Flexibilidad en los horarios de clase.
+- Servicio de sala de sistemas en horario de oficina.
+- Rumbaterapias y ocupación del tiempo libre.
+- Acompañamiento psicológico a familias y estudiantes.
+- Uso de la planta física para actividades académicas en horas alternas.
+- Asesoría gratuita de docentes en horarios alternos.
+
+---
+
+## 5. PROGRAMAS TÉCNICOS LABORALES POR COMPETENCIAS
+
+Todos los programas del portafolio se organizan en **3 semestres**. Programas listados (12):
+
+1. Auxiliar Eléctrico
+2. Belleza Integral
+3. Auxiliar Veterinaria
+4. Auxiliar Agropecuario
+5. Agente de Turismo
+6. Mecánica de Motos
+7. Trabajo Comunitario
+8. Auxiliar en Seguridad Ocupacional
+9. Auxiliar en Contabilidad y Finanzas
+10. Atención a la Primera Infancia
+11. Construcción de Obras Civiles
+12. Operación de Maquinaria Pesada
+
+### 5.1 Técnico Laboral en Auxiliar Eléctrico
+- **Duración:** 3 semestres.
+- **Área:** electricidad, instalaciones y mantenimiento eléctrico.
+- **Semestre I:** Matemáticas I; Circuitos eléctricos; Electrotecnia; Herramientas y materiales eléctricos; Instalación de sistemas de iluminación de interior y exterior; Inglés.
+- **Semestre II:** Álgebra; Circuitos eléctricos III; Instalación de equipos de medida de energía eléctrica en baja tensión; Construcción de acometidas para instalaciones residenciales; Costos y presupuestos; Verificación de especificaciones de tableros eléctricos; Prácticas.
+- **Semestre III:** Medición de circuitos eléctricos; Instalación de redes domiciliarias; Normatividad; Automatismo eléctrico; Seguridad industrial; Mantenimiento de tablero de baja y media tensión; Prácticas.
+
+### 5.2 Técnico Laboral en Belleza Integral
+- **Duración:** 3 semestres.
+- **Área:** estética, cuidado personal y peluquería.
+- **Semestre I:** Manicure y pedicure; Anatomía facial; Maquillaje profesional; Depilación.
+- **Semestre II:** Trenzas; Peinados de niña; Blower; Altos peinados.
+- **Semestre III:** Proyecto de grado; Anatomía capilar; Diseño de los diferentes cortes; Colorimetría; Lisos y keratinas.
+
+### 5.3 Técnico Laboral en Auxiliar Veterinaria
+- **Duración:** 3 semestres.
+- **Área:** salud y producción animal.
+- **Semestre I:** Anatomía animal 1; Principios de farmacología; Etología y bienestar animal; Semiología; Reproducción animal; Bioquímica.
+- **Semestre II:** Sistemas de producción en pequeñas especies; Enfermedades infecciosas; Nutrición animal; Inseminación artificial 1; Farmacología; Instrumentación quirúrgica.
+- **Semestre III:** Manejos y registros; Proyecto de grado veterinaria; Sistemas de producción en grandes especies; Parasitología y microbiología; Inseminación artificial 2; Laboratorio y primeros auxilios.
+
+### 5.4 Técnico Laboral en Auxiliar Agropecuario
+- **Duración:** 3 semestres.
+- **Área:** campo, cultivos y producción agropecuaria.
+- **Semestre I:** Introducción a la administración agropecuaria; Contabilidad y finanzas agropecuarias; Fisiología vegetal; Anatomía y fisiología animal; Gestión de la extensión agropecuaria.
+- **Semestre II:** Administración y mercadeo agropecuario; Producción agropecuaria sostenible; Suelos y fertilizantes; Sanidad vegetal; Sanidad y nutrición animal.
+- **Semestre III:** Políticas públicas agropecuarias; Cultivos I; Riegos y drenajes; Agricultura local; Formulación de proyectos agropecuarios.
+
+### 5.5 Técnico Laboral en Agente de Turismo
+- **Duración:** 3 semestres.
+- **Área:** turismo, servicio al cliente e idiomas.
+- **Semestre I:** Introducción y teoría del turismo; Geografía turística de Colombia I; Servicio al cliente; Inglés I; Práctica de servicio al cliente; Primeros auxilios.
+- **Semestre II:** Geografía mundial; Inglés II; Inventario turístico; Alimentos y bebidas; Matemática financiera; Mercadeo y promoción turística.
+- **Semestre III:** Birdwatching; Producto turístico; Áreas protegidas (parques); Inglés III; Gestión de agencia de viajes; Emprendimiento; Terminologías.
+
+### 5.6 Técnico Laboral en Mecánica de Motos
+- **Duración:** 3 semestres.
+- **Área:** mecánica, motores y sistemas de inyección.
+- **Semestre I:** Seguridad ocupacional I; Metrología I; Sistemas eléctricos motor 2T; Sistema de suspensión y frenos motor 2T; Sistemas de lubricación y refrigeración motor 2T; Sistema de carburación; Motor 2 tiempos.
+- **Semestre II:** Motor 4 tiempos; Sistemas eléctricos motor 4T; Seguridad ocupacional II; Metrología II; Sistema de alimentación motor 4T; Sistema de lubricación y refrigeración motor 4T; Sistema de suspensión y freno motor 4T.
+- **Semestre III:** Sistemas eléctricos de inyección; Metrología III; Sistemas de inyección; Seguridad ocupacional III; Práctica; Proyecto de grado.
+
+### 5.7 Técnico Laboral en Trabajo Comunitario
+- **Duración:** 3 semestres.
+- **Área:** trabajo social, psicología y apoyo a comunidades.
+- **Semestre I:** Psicología evolutiva; Introducción al trabajo social; Psicología social; Antropología y sociología; Lectura analítica; Trabajo social de caso.
+- **Semestre II:** Procesos psicosociales y paz; Trabajo social de grupos; Psicopatología; Metodología de investigación; Psicología comunitaria; Administración social.
+- **Semestre III:** Trabajo social comunitario y organizaciones sociales; Trabajo social con infancia, adolescencia y vejez; Recreación comunitaria; Proyecto de grado; Salud ocupacional; Pedagogía social.
+
+### 5.8 Técnico Laboral en Seguridad Ocupacional
+- **Duración:** 3 semestres.
+- **Área:** seguridad y salud en el trabajo (SST), gestión ambiental.
+- **Semestre I:** Herramientas ofimáticas I; Introducción a la seguridad ocupacional; Legislación en seguridad ocupacional; Medicina preventiva; Sistemas de gestión I; Diseño SG-SST I.
+- **Semestre II:** Procesos industriales; Matrices I; Diseño SG-SST II; Higiene industrial y elementos de protección personal; Sistemas de gestión II; Gestión ambiental.
+- **Semestre III:** Inglés I; Auditorías integradas; Diseño SG-SST III; Sistemas de gestión III; Formulación y evaluación de proyectos; Matrices II.
+
+### 5.9 Técnico Laboral en Auxiliar en Contabilidad y Finanzas
+- **Duración:** 3 semestres.
+- **Área:** contabilidad, impuestos, nómina y software contable.
+- **Semestre I:** Contabilidad I; Asistencia administrativa I; Legislación comercial; Informática básica; Matemáticas – Estadística.
+- **Semestre II:** Nómina; Contabilidad III; Procedimientos tributarios; Software contable; Proyecto de grado Contabilidad y Finanzas.
+- **Semestre III:** Contabilidad II; Introducción a software contable; Matemáticas financieras; Costos y presupuesto; Legislación laboral.
+
+### 5.10 Técnico Laboral en Atención a la Primera Infancia
+- **Duración:** 3 semestres.
+- **Área:** educación y cuidado de niños y niñas.
+- **Semestre I:** Tecnología educativa en primera infancia; Música y canto; Fundamentos pedagógicos; Inglés básico para preescolar; Primeros auxilios; Aprestamiento lecto-escrito y lógico-matemático; Desarrollo del pensamiento y estimulación temprana; Políticas públicas de la primera infancia.
+- **Semestre II:** Psicología social; Didáctica del aprendizaje; Aprendizaje y problemas de aprendizaje; Gestión empresarial e ideas de negocio; Psicomotricidad; Lúdica y corporalidad; Pensamiento y lenguaje; Literatura infantil.
+- **Semestre III:** Técnicas de comunicación; Estrategias pedagógicas y enseñanzas de aprendizaje; Salud ocupacional; Salud infantil y cuidados básicos; Educación para la diversidad (educación inclusiva); Proyecto educativo; Diseño curricular y malla curricular; Práctica.
+
+### 5.11 Técnico Laboral en Construcción de Obras Civiles
+- **Duración:** 3 semestres.
+- **Área:** construcción, topografía, diseño y obras.
+- **Semestre I:** Matemáticas; Materiales y herramientas de construcción; Topografía I; Administración de obra; Construcciones y estructuras; Electricidad I.
+- **Semestre II:** Manejo ambiental I; AutoCAD I; Topografía II; Costos y presupuestos de obra I; Electricidad II; Seguridad y salud en el trabajo.
+- **Semestre III:** Acueducto y alcantarillado; Construcción de obras viales; Proyecto de grado; Electricidad III; Puentes; Prácticas.
+
+### 5.12 Técnico Laboral en Operación de Maquinaria Pesada
+- **Duración:** 3 semestres.
+- **Área:** operación de maquinaria de construcción y movimiento de tierras.
+- **Semestre I:** Seguridad ocupacional I; Tractor; Retrocargador; Práctica tractor; Práctica retrocargador.
+- **Semestre II:** Electrónica I; Excavadora de orugas; Práctica excavadora de oruga; Electrónica II; Seguridad ocupacional II.
+- **Semestre III:** Motoniveladora; Vibrocompactador; Práctica motoniveladora; Práctica vibrocompactador; Seguridad ocupacional III.
+
+---
+
+## 6. CURSOS Y SEMINARIOS (educación informal)
+
+Duración máxima de 160 horas. Se ofrecen amparados en el Decreto 4904 y con la Licencia de Funcionamiento de la institución.
+
+**Cursos:**
+- Operación de maquinaria pesada
+- Electricidad
+- Sistemas
+- Inglés
+- Marketing publicitario y diseño gráfico
+- Uñas acrílicas
+- Excel básico
+- Primeros auxilios
+
+**Seminarios:**
+- Expresión oral y escrita
+- Intervención pedagógica en primera infancia
+- Factores psicosociales en el contexto laboral
+- Guía Técnica Colombiana GTC 45 con énfasis en trabajo en alturas
+- Industria y comercio
+
+### Datos de los afiches publicados (verificar vigencia antes de responder)
+| Curso / seminario | Información publicada |
+|---|---|
+| Curso intensivo de uñas acrílicas | Inscripción $50.000; valor del curso $500.000 (incluye todo el material). Horarios: martes, miércoles y viernes, 8:00 am–12:00 m y 2:00–5:00 pm. |
+| Curso básico de Excel | Dirigido a quienes quieren aprender a usar Excel: interfaz, crear y administrar planillas y operaciones básicas. Horarios: martes, miércoles y viernes. |
+| Curso de maquinaria pesada | Duración 120 horas. Aprende a operar excavadora de orugas y a hacer mantenimiento correctivo y preventivo del motor. |
+| Curso de electricidad | Cupos limitados. Se dicta en Tame, Calle 17-14-98, Barrio Las Ferias. |
+| Seminario GTC 45 – trabajo en alturas | 8:00 am–12:00 m, Biblioteca Virtual Fray. |
+| Seminario intervención pedagógica en primera infancia | Biblioteca Virtual Fray Ignacio Mariño, 26 de octubre, 8:00 am–12:00 m (convocatoria pasada). |
+
+---
+
+## 7. GUÍA DE ORIENTACIÓN VOCACIONAL (para recomendar programa)
+
+El chatbot pregunta por **intereses, habilidades y disponibilidad de tiempo** y sugiere el programa más afín.
+
+| Si al aspirante le interesa… | Programa sugerido |
+|---|---|
+| Instalaciones, cables, tableros, energía | Auxiliar Eléctrico |
+| Maquillaje, peinados, uñas, cortes, estética | Belleza Integral |
+| Animales, salud animal, laboratorio | Auxiliar Veterinaria |
+| Campo, cultivos, ganadería, administración rural | Auxiliar Agropecuario |
+| Viajar, atender turistas, idiomas, naturaleza | Agente de Turismo |
+| Motores, reparar motos, mecánica | Mecánica de Motos |
+| Ayudar a comunidades, psicología, trabajo social | Trabajo Comunitario |
+| Prevención de riesgos, normas, seguridad en empresas | Auxiliar en Seguridad Ocupacional |
+| Números, impuestos, nómina, oficina | Auxiliar en Contabilidad y Finanzas |
+| Niños, enseñar, juegos, pedagogía | Atención a la Primera Infancia |
+| Construir, planos, topografía, obras | Construcción de Obras Civiles |
+| Máquinas grandes, excavadoras, obras viales | Operación de Maquinaria Pesada |
+
+Si el aspirante tiene poco tiempo o quiere algo corto, el chatbot puede sugerir un **curso o seminario** (sección 6) en lugar de un programa técnico.
+
+---
+
+## 8. PREGUNTAS FRECUENTES (respuestas base)
+
+**¿Dónde queda Cenfotec?** Tiene sedes en Tame (Cra 15 No. 17 Esq.), Saravena (Cll 27 No. 16A-31) y Puerto Jordán (detrás de la Casa Comunal).
+
+**¿Cuántos programas técnicos ofrece?** El portafolio lista 12 programas técnicos laborales por competencias, todos de 3 semestres.
+
+**¿Qué documentos necesito para inscribirme?** Ver sección 3.
+
+**¿Cuáles son los horarios?** Los horarios son flexibles y se manejan principalmente en fines de semana. El horario exacto de cada programa y sede lo confirma el asesor.
+
+**¿Se puede pagar en cuotas?** Sí, Cenfotec maneja pago por cuotas.
+
+**¿Hay becas?** La institución ha otorgado becas hasta del 100 % a población vulnerable. Las condiciones las confirma el asesor.
+
+**¿Los títulos son válidos?** Cenfotec opera con Licencia de Funcionamiento emitida por la Secretaría de Educación Departamental de Arauca (No. 0391 de 2014, 3908 de 2016 y 3181 de 2021).
+
+**¿Qué servicios de bienestar ofrece?** Ver sección 4.
+
+**¿Cómo hablo con un asesor?** Escribir o llamar al 312 487 8581 (Tame), 300 722 7622 (Saravena) o 312 383 3602 (Puerto Jordán), o al correo cenfotec@hotmail.es. El chatbot también puede dirigir al formulario de solicitud de información de la institución.
+
+---
+
+## 9. REGLAS DE RESPUESTA PARA EL CHATBOT
+
+1. Responder solo con la información de este documento; si el dato no está, decirlo y derivar a un asesor.
+2. No inventar costos, duraciones por semestre, fechas de inscripción ni horarios exactos.
+3. Cuando el aspirante lo pida o la consulta no se pueda resolver, derivar al asesor o al formulario de contacto.
+4. Tono amable, claro y breve.
+
+---
+
+## 10. DATOS PENDIENTES (completar con Cenfotec antes de producción)
+
+- Costos de matrícula y de cada cuota por programa.
+- Duración en meses/horas de cada programa y horario exacto por sede.
+- Fechas de inicio e inscripción.
+- Programas que se dictan en cada sede.
+- Requisitos adicionales por programa (si los hay).
+- Enlace del formulario de solicitud de información y WhatsApp oficial.
+- Aclarar el número de programas: el portafolio dice "14 programas aprobados" pero lista 12.
+- Confirmar la dirección de la sede Tame: el portafolio indica "Cra 15 No. 17 Esq.", y los afiches muestran "Calle 17-14-98, Barrio Las Ferias" y "Cll 17 #15 Esq.".
+- Confirmar la dirección de Saravena: el portafolio dice "Cll 27 No. 16A-31"; el FIS dice "Cra 27 16A-31".
